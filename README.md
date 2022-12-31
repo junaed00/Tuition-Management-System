@@ -39,8 +39,8 @@ VS Code | IDE
 
 ## Features and Functionalities
 
+Registration Number: **2018331100**  
 
-Registration Number: **2018331100**
 Name: **Shanur Milon**
 
 |   SL | Course Name                   | Platform | Completion Date | Certificate Link                                                                                  |
@@ -48,4 +48,3 @@ Name: **Shanur Milon**
 |   01 | Intro to Machine Learning     | Kaggle   |  Dec 31, 2022   | [cert_2018331100_01.pdf](https://www.kaggle.com/learn/certification/shanurmilon00/intro-to-machine-learning)               |
 |   02 | Intermediate Machine Learning | Kaggle   |  Dec 31, 2022   | [cert_2018331100_02.pdf](https://www.kaggle.com/learn/certification/shanurmilon00/intermediate-machine-learning)              |
 |   03 | Pandas                        | Kaggle   |  Dec 30, 2022   | [cert_2018331100_03.pdf](https://www.kaggle.com/learn/certification/shanurmilon00/pandas)         |
- 
